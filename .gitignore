@@ -3,3 +3,10 @@
 
 # Carpetas de compilación o archivos generados
 outputs/
+
+# Python
+__pycache__/
+
+# Configuración local del editor de código
+.vscode/
+.idea/
