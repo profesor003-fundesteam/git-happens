@@ -1,0 +1,5 @@
+# Dependencias y paquetes instalados
+.venv/
+
+# Carpetas de compilación o archivos generados
+outputs/
