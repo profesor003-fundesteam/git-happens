@@ -1,8 +1,6 @@
 """
-estructuras.py - Estructuras de datos propias.
-Responsable: Integrante 1
+Estructuras de datos propias.
 
-Temas del curso: pila, cola y lista enlazada (cap. 4).
   - Pila (LIFO): guarda las últimas acciones para poder DESHACER.
   - Cola (FIFO): guarda los pagos programados en orden de llegada.
 """
