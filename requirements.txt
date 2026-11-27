@@ -1,0 +1,27 @@
+# ============================================================
+#  FinanzApp - Dependencias del proyecto
+#  Requiere Python 3.12 o 3.13 (numpy 2.5 no funciona en 3.11 o menor)
+#
+#  Instalación desde la carpeta del proyecto, copiar el siguiente código en la terminal y ejecutar:
+#     python -m venv .venv
+#     .venv\Scripts\activate
+#     pip install -r requirements.txt
+#
+# ============================================================
+
+# --- Análisis de datos (Integrante 4) ---
+pandas==3.1.1
+numpy==2.5.5
+
+# --- Gráficas (Integrante 4) ---
+matplotlib==3.11.2
+
+# --- Lectura del Excel de datos (Integrante 1) ---
+openpyxl==3.1.5
+
+# --- Asesor con IA (Integrante 3) ---
+google-genai==3.6.1
+python-dotenv==1.2.4
+
+# --- Pruebas de la carpeta tests/ (todos) ---
+pytest==9.2.0

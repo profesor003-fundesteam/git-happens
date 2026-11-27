@@ -1,0 +1,917 @@
+fecha,modo,categoria,monto,tipo,descripcion,origen
+2018-09-20 12:04:08,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2018-09-20 12:03:15,Efectivo,Comida,3.0,Gastos,Desayuno,Original
+2018-09-15 08:28:02,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-09-15 06:34:17,Tarjeta,Subscripciones,10.0,Gastos,Streaming,Original
+2018-09-14 12:47:26,Transferencia,Trabajo extra,75.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2018-09-14 05:39:17,Efectivo,Transporte,2.5,Gastos,Pasaje,Original
+2018-09-13 21:01:32,Efectivo,Comida,2.3,Gastos,Café,Original
+2018-09-12 00:00:00,Tarjeta,Subscripciones,33.35,Gastos,Plan de celular,Original
+2018-09-11 00:00:00,Efectivo,Comida,1.8,Gastos,Snacks,Original
+2018-09-10 00:00:00,Efectivo,Comida,1.8,Gastos,Cena,Original
+2018-09-08 00:00:00,Efectivo,Familia,2.0,Gastos,Compra para padres,Original
+2018-09-07 00:00:00,Efectivo,Comida,1.85,Gastos,Desayuno,Original
+2018-09-06 00:00:00,Efectivo,Comida,2.75,Gastos,Panadería,Original
+2018-09-05 19:34:56,Transferencia,Reembolsos,12.5,Ingresos,Reembolso de compra en línea,Simulado
+2018-09-05 00:00:00,Efectivo,Comida,2.0,Gastos,Delivery,Original
+2018-09-05 00:00:00,Efectivo,Comida,1.2,Gastos,Almuerzo,Original
+2018-09-05 00:00:00,Efectivo,Comida,1.5,Gastos,Desayuno,Original
+2018-09-03 12:46:08,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-09-03 00:00:00,Efectivo,Familia,100.0,Gastos,Aporte a la casa,Original
+2018-08-31 15:12:20,Efectivo,Regalos,5.9,Gastos,Regalo de cumpleaños,Original
+2018-08-31 15:12:20,Efectivo,Familia,50.0,Gastos,Aporte a la casa,Original
+2018-08-31 10:01:15,Tarjeta,Comida,25.54,Gastos,Snacks,Original
+2018-08-31 09:26:17,Efectivo,Comida,1.8,Gastos,Panadería,Original
+2018-08-31 08:43:53,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-08-30 21:10:24,Efectivo,Comida,3.9,Gastos,Almuerzo,Original
+2018-08-30 21:09:51,Efectivo,Hogar,17.15,Gastos,Reparación,Original
+2018-08-29 12:21:49,Efectivo,Comida,1.35,Gastos,Snacks,Original
+2018-08-29 12:21:49,Efectivo,Comida,0.75,Gastos,Panadería,Original
+2018-08-29 12:11:41,Efectivo,Comida,1.8,Gastos,Delivery,Original
+2018-08-27 21:30:16,Efectivo,Comida,1.0,Gastos,Snacks,Original
+2018-08-27 10:52:51,Efectivo,Comida,3.0,Gastos,Frutas y verduras,Original
+2018-08-27 10:52:30,Efectivo,Comida,2.25,Gastos,Café,Original
+2018-08-27 10:52:09,Efectivo,Comida,1.8,Gastos,Almuerzo,Original
+2018-08-24 22:13:43,Tarjeta,Comida,56.0,Gastos,Cena,Original
+2018-08-24 20:20:37,Efectivo,Comida,1.0,Gastos,Delivery,Original
+2018-08-24 20:17:09,Efectivo,Comida,1.8,Gastos,Supermercado,Original
+2018-08-23 21:29:52,Tarjeta,Transporte,65.27,Gastos,Metro,Original
+2018-08-23 21:29:12,Tarjeta,Transporte,60.27,Gastos,Taxi,Original
+2018-08-22 22:31:36,Efectivo,Comida,1.85,Gastos,Snacks,Original
+2018-08-21 16:15:46,Efectivo,Comida,0.6,Gastos,Supermercado,Original
+2018-08-21 16:15:20,Efectivo,Comida,1.8,Gastos,Desayuno,Original
+2018-08-17 19:21:17,Efectivo,Comida,1.8,Gastos,Desayuno,Original
+2018-08-16 19:08:01,Tarjeta,Subscripciones,7.85,Gastos,Software,Original
+2018-08-15 09:44:05,Efectivo,Comida,14.5,Gastos,Desayuno,Original
+2018-08-15 09:11:44,Efectivo,Comida,10.8,Gastos,Supermercado,Original
+2018-08-15 08:49:42,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-08-14 10:04:52,Efectivo,Familia,1.5,Gastos,Ayuda a familiar,Original
+2018-08-14 09:51:30,Efectivo,Comida,1.6,Gastos,Café,Original
+2018-08-14 09:50:12,Efectivo,Hogar,8.0,Gastos,Artículos de limpieza,Original
+2018-08-14 09:46:54,Efectivo,Comida,5.75,Gastos,Frutas y verduras,Original
+2018-08-13 18:37:27,Efectivo,Hogar,5.0,Gastos,Reparación,Original
+2018-08-13 18:36:01,Efectivo,Hogar,11.0,Gastos,Artículos de limpieza,Original
+2018-08-13 18:35:18,Efectivo,Comida,2.25,Gastos,Delivery,Original
+2018-08-13 18:33:36,Efectivo,Hogar,29.7,Gastos,Artículos de limpieza,Original
+2018-08-13 10:04:36,Efectivo,Comida,0.5,Gastos,Panadería,Original
+2018-08-13 10:04:23,Efectivo,Comida,1.0,Gastos,Café,Original
+2018-08-11 00:00:00,Efectivo,Comida,4.8,Gastos,Supermercado,Original
+2018-08-10 00:00:00,Efectivo,Familia,1.75,Gastos,Compra para padres,Original
+2018-08-05 00:00:00,Efectivo,Comida,0.5,Gastos,Desayuno,Original
+2018-08-05 00:00:00,Tarjeta,Medicinas,215.0,Gastos,Farmacia,Original
+2018-08-05 00:00:00,Efectivo,Transporte,0.75,Gastos,Taxi,Original
+2018-08-05 00:00:00,Tarjeta,Familia,19.9,Gastos,Ayuda a familiar,Original
+2018-08-05 00:00:00,Efectivo,Familia,5.0,Gastos,Aporte a la casa,Original
+2018-08-05 00:00:00,Efectivo,Transporte,1.0,Gastos,Pasaje,Original
+2018-08-03 00:00:00,Efectivo,Familia,100.0,Gastos,Aporte a la casa,Original
+2018-08-02 00:00:00,Efectivo,Comida,10.8,Gastos,Desayuno,Original
+2018-08-02 00:00:00,Efectivo,Hogar,0.9,Gastos,Luz,Original
+2018-08-02 00:00:00,Efectivo,Medicinas,50.0,Gastos,Exámenes de laboratorio,Original
+2018-08-01 17:06:57,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-08-01 00:00:00,Efectivo,Familia,2.0,Gastos,Ayuda a familiar,Original
+2018-07-31 13:44:15,Efectivo,Comida,0.5,Gastos,Frutas y verduras,Original
+2018-07-31 08:53:57,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-07-30 18:44:23,Efectivo,Medicinas,5.0,Gastos,Vitaminas,Original
+2018-07-30 13:19:56,Efectivo,Medicinas,6.6,Gastos,Consulta médica,Original
+2018-07-30 11:49:11,Efectivo,Comida,1.25,Gastos,Supermercado,Original
+2018-07-29 15:52:47,Efectivo,Transporte,2.5,Gastos,Metro,Original
+2018-07-29 11:39:53,Efectivo,Transporte,0.75,Gastos,Taxi,Original
+2018-07-29 10:12:59,Efectivo,Comida,5.25,Gastos,Café,Original
+2018-07-28 23:42:57,Efectivo,Familia,10.0,Gastos,Compra para padres,Original
+2018-07-28 21:30:49,Efectivo,Comida,9.75,Gastos,Desayuno,Original
+2018-07-28 20:45:00,Tarjeta,Hogar,187.5,Gastos,Reparación,Original
+2018-07-26 23:06:09,Efectivo,Comida,2.0,Gastos,Cena,Original
+2018-07-23 12:49:29,Tarjeta,Subscripciones,7.7,Gastos,Nube,Original
+2018-07-23 12:33:32,Efectivo,Comida,5.0,Gastos,Snacks,Original
+2018-07-21 19:02:36,Efectivo,Hogar,18.4,Gastos,Luz,Original
+2018-07-21 19:02:16,Efectivo,Comida,1.5,Gastos,Frutas y verduras,Original
+2018-07-21 08:42:11,Efectivo,Comida,2.25,Gastos,Delivery,Original
+2018-07-20 19:59:46,Efectivo,Comida,1.0,Gastos,Café,Original
+2018-07-20 19:59:08,Efectivo,Comida,1.25,Gastos,Panadería,Original
+2018-07-20 19:58:46,Efectivo,Comida,1.25,Gastos,Snacks,Original
+2018-07-20 12:29:28,Efectivo,Medicinas,4.35,Gastos,Vitaminas,Original
+2018-07-20 09:11:48,Tarjeta,Medicinas,52.4,Gastos,Farmacia,Original
+2018-07-19 20:25:13,Efectivo,Comida,2.0,Gastos,Snacks,Original
+2018-07-18 20:26:03,Efectivo,Comida,10.8,Gastos,Almuerzo,Original
+2018-07-16 10:43:53,Tarjeta,Hogar,59.5,Gastos,Agua,Original
+2018-07-16 10:41:01,Efectivo,Comida,4.2,Gastos,Delivery,Original
+2018-07-15 19:12:57,Efectivo,Comida,1.5,Gastos,Café,Original
+2018-07-15 18:01:59,Efectivo,Comida,25.0,Gastos,Desayuno,Original
+2018-07-15 09:41:01,Efectivo,Comida,2.4,Gastos,Snacks,Original
+2018-07-15 08:47:31,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-07-13 09:36:19,Tarjeta,Medicinas,67.9,Gastos,Vitaminas,Original
+2018-07-12 00:00:00,Efectivo,Comida,1.75,Gastos,Snacks,Original
+2018-07-11 00:00:00,Efectivo,Comida,2.85,Gastos,Frutas y verduras,Original
+2018-07-09 00:00:00,Efectivo,Comida,3.0,Gastos,Cena,Original
+2018-07-09 00:00:00,Efectivo,Comida,1.0,Gastos,Frutas y verduras,Original
+2018-07-09 00:00:00,Efectivo,Transporte,18.0,Gastos,Combustible,Original
+2018-07-08 17:12:39,Transferencia,Reembolsos,10.0,Ingresos,Reembolso de compra en línea,Simulado
+2018-07-08 00:00:00,Efectivo,Transporte,6.5,Gastos,Pasaje,Original
+2018-07-08 00:00:00,Efectivo,Medicinas,25.0,Gastos,Consulta médica,Original
+2018-07-08 00:00:00,Tarjeta,Medicinas,7.65,Gastos,Consulta médica,Original
+2018-07-08 00:00:00,Efectivo,Transporte,9.25,Gastos,Metro,Original
+2018-07-07 00:00:00,Efectivo,Transporte,0.5,Gastos,Uber,Original
+2018-07-07 00:00:00,Tarjeta,Comida,0.1,Gastos,Panadería,Original
+2018-07-06 00:00:00,Efectivo,Comida,38.0,Gastos,Café,Original
+2018-07-06 00:00:00,Efectivo,Transporte,5.0,Gastos,Pasaje,Original
+2018-07-05 00:00:00,Efectivo,Transporte,0.75,Gastos,Uber,Original
+2018-07-05 00:00:00,Efectivo,Comida,0.35,Gastos,Delivery,Original
+2018-07-05 00:00:00,Efectivo,Transporte,4.15,Gastos,Uber,Original
+2018-07-05 00:00:00,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2018-07-04 00:00:00,Efectivo,Familia,17.5,Gastos,Aporte a la casa,Original
+2018-07-04 00:00:00,Efectivo,Medicinas,5.0,Gastos,Vitaminas,Original
+2018-07-03 00:00:00,Tarjeta,Subscripciones,7.7,Gastos,Plan de celular,Original
+2018-07-02 19:51:14,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-07-02 00:00:00,Efectivo,Transporte,2.5,Gastos,Uber,Original
+2018-07-02 00:00:00,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2018-07-02 00:00:00,Efectivo,Transporte,2.0,Gastos,Bus,Original
+2018-07-02 00:00:00,Efectivo,Transporte,1.3,Gastos,Bus,Original
+2018-07-02 00:00:00,Tarjeta,Hogar,31.3,Gastos,Artículos de limpieza,Original
+2018-07-01 00:00:00,Tarjeta,Transporte,94.5,Gastos,Taxi,Original
+2018-06-30 08:44:18,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-06-29 16:13:02,Efectivo,Hogar,3.5,Gastos,Utensilios de cocina,Original
+2018-06-29 16:10:41,Efectivo,Hogar,2.5,Gastos,Luz,Original
+2018-06-29 15:28:46,Efectivo,Hogar,13.5,Gastos,Utensilios de cocina,Original
+2018-06-28 20:44:36,Tarjeta,Comida,22.75,Gastos,Delivery,Original
+2018-06-28 18:35:52,Efectivo,Comida,3.5,Gastos,Desayuno,Original
+2018-06-28 15:06:59,Efectivo,Transporte,11.4,Gastos,Combustible,Original
+2018-06-27 18:53:54,Efectivo,Comida,0.7,Gastos,Delivery,Original
+2018-06-27 18:48:45,Efectivo,Hogar,5.0,Gastos,Reparación,Original
+2018-06-27 18:46:48,Efectivo,Hogar,5.0,Gastos,Internet,Original
+2018-06-27 18:18:28,Efectivo,Transporte,1.25,Gastos,Uber,Original
+2018-06-27 14:00:32,Efectivo,Transporte,4.0,Gastos,Metro,Original
+2018-06-27 13:59:52,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2018-06-26 19:47:42,Tarjeta,Hogar,99.5,Gastos,Utensilios de cocina,Original
+2018-06-26 19:47:42,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2018-06-26 11:47:08,Efectivo,Transporte,1.0,Gastos,Pasaje,Original
+2018-06-26 11:45:49,Efectivo,Comida,1.0,Gastos,Desayuno,Original
+2018-06-26 11:44:48,Efectivo,Comida,1.5,Gastos,Panadería,Original
+2018-06-25 14:23:22,Tarjeta,Hogar,103.7,Gastos,Agua,Original
+2018-06-24 16:11:39,Efectivo,Transporte,2.0,Gastos,Pasaje,Original
+2018-06-24 14:37:00,Tarjeta,Medicinas,10.59,Gastos,Vitaminas,Original
+2018-06-24 13:31:06,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2018-06-24 11:29:20,Tarjeta,Subscripciones,7.85,Gastos,Gimnasio,Original
+2018-06-24 11:00:13,Efectivo,Comida,3.0,Gastos,Delivery,Original
+2018-06-23 20:43:49,Transferencia,Trabajo extra,200.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2018-06-23 19:25:22,Tarjeta,Subscripciones,127.25,Gastos,Plan de celular,Original
+2018-06-23 10:15:35,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2018-06-15 08:36:18,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-06-11 00:00:00,Efectivo,Comida,4.2,Gastos,Almuerzo,Original
+2018-06-09 00:00:00,Tarjeta,Subscripciones,33.35,Gastos,Gimnasio,Original
+2018-06-01 20:42:25,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-05-31 08:10:04,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-05-28 14:11:17,Tarjeta,Subscripciones,1.25,Gastos,Nube,Original
+2018-05-27 10:50:10,Efectivo,Hogar,3.75,Gastos,Luz,Original
+2018-05-26 07:55:09,Efectivo,Transporte,2.5,Gastos,Uber,Original
+2018-05-23 21:20:18,Tarjeta,Subscripciones,8.3,Gastos,Streaming,Original
+2018-05-23 11:29:54,Transferencia,Reembolsos,10.0,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2018-05-22 20:47:36,Efectivo,Medicinas,7.7,Gastos,Vitaminas,Original
+2018-05-21 14:06:05,Efectivo,Familia,7.0,Gastos,Compra para padres,Original
+2018-05-19 19:26:19,Efectivo,Hogar,1.25,Gastos,Reparación,Original
+2018-05-15 20:11:12,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2018-05-15 18:43:55,Efectivo,Transporte,2.5,Gastos,Taxi,Original
+2018-05-15 08:43:34,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-05-14 22:49:07,Efectivo,Transporte,2.5,Gastos,Taxi,Original
+2018-05-14 18:01:15,Efectivo,Comida,0.75,Gastos,Supermercado,Original
+2018-05-14 09:47:57,Efectivo,Transporte,2.0,Gastos,Taxi,Original
+2018-05-14 09:47:13,Efectivo,Transporte,2.0,Gastos,Uber,Original
+2018-05-13 20:30:06,Transferencia,Reembolsos,7.5,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2018-05-13 20:16:54,Efectivo,Universidad,0.6,Gastos,Impresiones,Original
+2018-05-12 00:00:00,Tarjeta,Comida,21.85,Gastos,Almuerzo,Original
+2018-05-12 00:00:00,Efectivo,Comida,3.5,Gastos,Supermercado,Original
+2018-05-12 00:00:00,Efectivo,Comida,2.4,Gastos,Frutas y verduras,Original
+2018-05-11 00:00:00,Efectivo,Comida,1.0,Gastos,Almuerzo,Original
+2018-05-09 00:00:00,Efectivo,Comida,1.8,Gastos,Café,Original
+2018-05-09 00:00:00,Tarjeta,Subscripciones,9.95,Gastos,Plan de celular,Original
+2018-05-09 00:00:00,Efectivo,Comida,2.25,Gastos,Supermercado,Original
+2018-05-09 00:00:00,Efectivo,Subscripciones,0.6,Gastos,Streaming,Original
+2018-05-08 00:00:00,Efectivo,Comida,25.0,Gastos,Almuerzo,Original
+2018-05-07 00:00:00,Efectivo,Comida,3.6,Gastos,Desayuno,Original
+2018-05-07 00:00:00,Tarjeta,Hogar,54.3,Gastos,Luz,Original
+2018-05-07 00:00:00,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2018-05-05 00:00:00,Efectivo,Familia,30.0,Gastos,Aporte a la casa,Original
+2018-05-04 00:00:00,Efectivo,Hogar,1.85,Gastos,Utensilios de cocina,Original
+2018-05-02 12:37:19,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-05-01 00:00:00,Efectivo,Comida,3.6,Gastos,Frutas y verduras,Original
+2018-05-01 00:00:00,Efectivo,Familia,13.0,Gastos,Aporte a la casa,Original
+2018-04-30 18:25:28,Efectivo,Comida,3.6,Gastos,Panadería,Original
+2018-04-30 18:25:08,Efectivo,Hogar,8.25,Gastos,Luz,Original
+2018-04-30 16:09:14,Transferencia,Reembolsos,22.5,Ingresos,Reembolso de compra en línea,Simulado
+2018-04-30 09:56:14,Tarjeta,Subscripciones,8.8,Gastos,Plan de celular,Original
+2018-04-30 09:48:34,Efectivo,Comida,2.25,Gastos,Frutas y verduras,Original
+2018-04-30 09:48:07,Efectivo,Comida,3.6,Gastos,Panadería,Original
+2018-04-30 08:11:05,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-04-30 06:32:57,Efectivo,Regalos,25.0,Gastos,Regalo de cumpleaños,Original
+2018-04-28 21:03:59,Tarjeta,Comida,20.65,Gastos,Café,Original
+2018-04-28 10:04:35,Efectivo,Familia,25.0,Gastos,Compra para padres,Original
+2018-04-27 18:30:51,Efectivo,Hogar,14.75,Gastos,Reparación,Original
+2018-04-26 20:44:20,Efectivo,Comida,1.5,Gastos,Delivery,Original
+2018-04-26 11:30:19,Efectivo,Familia,50.0,Gastos,Aporte a la casa,Original
+2018-04-25 18:28:39,Efectivo,Comida,3.5,Gastos,Panadería,Original
+2018-04-24 22:24:28,Tarjeta,Subscripciones,7.85,Gastos,Plan de celular,Original
+2018-04-22 21:03:30,Efectivo,Comida,0.5,Gastos,Café,Original
+2018-04-22 12:35:39,Efectivo,Hogar,9.5,Gastos,Internet,Original
+2018-04-21 23:15:33,Efectivo,Comida,8.0,Gastos,Supermercado,Original
+2018-04-21 21:15:07,Efectivo,Comida,1.0,Gastos,Frutas y verduras,Original
+2018-04-19 20:13:20,Efectivo,Hogar,0.7,Gastos,Reparación,Original
+2018-04-17 09:04:44,Efectivo,Comida,3.6,Gastos,Frutas y verduras,Original
+2018-04-16 18:26:06,Tarjeta,Hogar,22.5,Gastos,Artículos de limpieza,Original
+2018-04-15 19:07:49,Efectivo,Comida,3.5,Gastos,Snacks,Original
+2018-04-15 19:07:30,Efectivo,Comida,1.0,Gastos,Snacks,Original
+2018-04-15 19:06:45,Tarjeta,Hogar,39.95,Gastos,Artículos de limpieza,Original
+2018-04-15 14:40:22,Tarjeta,Familia,26.25,Gastos,Ayuda a familiar,Original
+2018-04-15 14:40:08,Efectivo,Transporte,0.5,Gastos,Bus,Original
+2018-04-15 14:39:37,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2018-04-15 14:38:43,Efectivo,Comida,3.5,Gastos,Panadería,Original
+2018-04-15 08:11:10,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-04-13 20:34:03,Efectivo,Medicinas,35.0,Gastos,Consulta médica,Original
+2018-04-12 00:00:00,Efectivo,Comida,1.0,Gastos,Almuerzo,Original
+2018-04-12 00:00:00,Efectivo,Comida,6.5,Gastos,Desayuno,Original
+2018-04-12 00:00:00,Efectivo,Hogar,5.6,Gastos,Luz,Original
+2018-04-12 00:00:00,Tarjeta,Subscripciones,9.95,Gastos,Nube,Original
+2018-04-10 00:00:00,Efectivo,Comida,0.9,Gastos,Almuerzo,Original
+2018-04-10 00:00:00,Efectivo,Comida,3.5,Gastos,Snacks,Original
+2018-04-09 14:16:42,Transferencia,Reembolsos,2.5,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2018-04-09 00:00:00,Efectivo,Comida,0.5,Gastos,Desayuno,Original
+2018-04-09 00:00:00,Efectivo,Comida,3.6,Gastos,Almuerzo,Original
+2018-04-07 00:00:00,Efectivo,Hogar,1.2,Gastos,Artículos de limpieza,Original
+2018-04-07 00:00:00,Efectivo,Comida,1.8,Gastos,Panadería,Original
+2018-04-07 00:00:00,Tarjeta,Hogar,92.85,Gastos,Agua,Original
+2018-04-05 00:00:00,Efectivo,Comida,3.6,Gastos,Frutas y verduras,Original
+2018-04-05 00:00:00,Efectivo,Comida,1.8,Gastos,Café,Original
+2018-04-05 00:00:00,Efectivo,Hogar,1.9,Gastos,Luz,Original
+2018-04-05 00:00:00,Efectivo,Comida,6.5,Gastos,Snacks,Original
+2018-04-03 20:24:39,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-04-02 00:00:00,Efectivo,Comida,1.8,Gastos,Frutas y verduras,Original
+2018-04-02 00:00:00,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2018-04-02 00:00:00,Tarjeta,Hogar,7.45,Gastos,Luz,Original
+2018-04-02 00:00:00,Efectivo,Comida,1.2,Gastos,Frutas y verduras,Original
+2018-04-02 00:00:00,Efectivo,Comida,1.0,Gastos,Snacks,Original
+2018-04-01 00:00:00,Efectivo,Comida,3.6,Gastos,Delivery,Original
+2018-03-31 19:45:07,Tarjeta,Comida,12.2,Gastos,Snacks,Original
+2018-03-31 13:20:18,Tarjeta,Comida,20.95,Gastos,Desayuno,Original
+2018-03-31 08:06:28,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-03-31 07:26:26,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2018-03-30 20:10:12,Efectivo,Comida,1.25,Gastos,Delivery,Original
+2018-03-30 11:27:41,Efectivo,Comida,1.0,Gastos,Supermercado,Original
+2018-03-30 11:27:33,Efectivo,Comida,3.6,Gastos,Delivery,Original
+2018-03-29 20:10:25,Tarjeta,Comida,61.7,Gastos,Delivery,Original
+2018-03-27 19:58:24,Efectivo,Comida,1.75,Gastos,Frutas y verduras,Original
+2018-03-26 09:55:55,Tarjeta,Subscripciones,7.85,Gastos,Streaming,Original
+2018-03-25 21:14:42,Efectivo,Transporte,0.5,Gastos,Pasaje,Original
+2018-03-25 21:14:08,Efectivo,Comida,1.25,Gastos,Desayuno,Original
+2018-03-25 21:13:44,Efectivo,Comida,1.0,Gastos,Almuerzo,Original
+2018-03-25 21:13:19,Efectivo,Comida,8.0,Gastos,Delivery,Original
+2018-03-25 21:12:38,Tarjeta,Comida,4.0,Gastos,Supermercado,Original
+2018-03-25 21:12:00,Tarjeta,Comida,12.0,Gastos,Desayuno,Original
+2018-03-22 22:30:20,Efectivo,Comida,0.75,Gastos,Snacks,Original
+2018-03-22 19:31:16,Efectivo,Comida,7.5,Gastos,Snacks,Original
+2018-03-22 12:50:18,Efectivo,Comida,1.0,Gastos,Snacks,Original
+2018-03-22 12:47:34,Efectivo,Comida,3.6,Gastos,Panadería,Original
+2018-03-21 18:41:45,Tarjeta,Hogar,1.9,Gastos,Internet,Original
+2018-03-21 17:26:41,Efectivo,Familia,2.5,Gastos,Aporte a la casa,Original
+2018-03-20 20:13:08,Tarjeta,Comida,12.3,Gastos,Delivery,Original
+2018-03-20 16:26:08,Tarjeta,Comida,10.79,Gastos,Cena,Original
+2018-03-20 16:15:59,Efectivo,Comida,0.9,Gastos,Café,Original
+2018-03-20 16:15:41,Efectivo,Comida,1.8,Gastos,Frutas y verduras,Original
+2018-03-20 16:15:16,Efectivo,Comida,1.8,Gastos,Snacks,Original
+2018-03-18 20:40:33,Efectivo,Transporte,0.5,Gastos,Bus,Original
+2018-03-18 18:57:34,Efectivo,Comida,0.75,Gastos,Frutas y verduras,Original
+2018-03-18 18:47:54,Tarjeta,Familia,39.95,Gastos,Compra para padres,Original
+2018-03-18 18:41:33,Tarjeta,Familia,24.9,Gastos,Aporte a la casa,Original
+2018-03-18 17:16:44,Efectivo,Comida,2.5,Gastos,Almuerzo,Original
+2018-03-18 17:16:27,Efectivo,Comida,1.5,Gastos,Panadería,Original
+2018-03-18 17:16:09,Efectivo,Comida,0.5,Gastos,Almuerzo,Original
+2018-03-18 16:16:21,Efectivo,Transporte,1.0,Gastos,Bus,Original
+2018-03-17 22:50:45,Efectivo,Comida,1.5,Gastos,Snacks,Original
+2018-03-15 19:03:18,Transferencia,Trabajo extra,100.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2018-03-15 16:27:45,Efectivo,Comida,3.0,Gastos,Cena,Original
+2018-03-15 08:45:55,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-03-14 21:39:40,Efectivo,Hogar,7.0,Gastos,Internet,Original
+2018-03-14 21:38:13,Efectivo,Comida,2.0,Gastos,Frutas y verduras,Original
+2018-03-14 09:15:33,Transferencia,Reembolsos,15.0,Ingresos,Reembolso de compra en línea,Simulado
+2018-03-14 06:04:18,Tarjeta,Comida,28.9,Gastos,Frutas y verduras,Original
+2018-03-13 12:39:40,Efectivo,Familia,24.0,Gastos,Aporte a la casa,Original
+2018-03-10 00:00:00,Efectivo,Comida,3.6,Gastos,Cena,Original
+2018-03-10 00:00:00,Efectivo,Hogar,15.0,Gastos,Internet,Original
+2018-03-10 00:00:00,Efectivo,Comida,1.8,Gastos,Delivery,Original
+2018-03-10 00:00:00,Efectivo,Medicinas,3.85,Gastos,Farmacia,Original
+2018-03-08 00:00:00,Efectivo,Comida,2.0,Gastos,Almuerzo,Original
+2018-03-08 00:00:00,Efectivo,Comida,1.8,Gastos,Delivery,Original
+2018-03-08 00:00:00,Efectivo,Comida,1.8,Gastos,Café,Original
+2018-03-06 00:00:00,Efectivo,Comida,1.8,Gastos,Delivery,Original
+2018-03-06 00:00:00,Efectivo,Familia,2.5,Gastos,Compra para padres,Original
+2018-03-06 00:00:00,Efectivo,Medicinas,8.6,Gastos,Exámenes de laboratorio,Original
+2018-03-06 00:00:00,Efectivo,Medicinas,1.1,Gastos,Vitaminas,Original
+2018-03-05 00:00:00,Efectivo,Comida,1.0,Gastos,Panadería,Original
+2018-03-05 00:00:00,Tarjeta,Hogar,67.85,Gastos,Utensilios de cocina,Original
+2018-03-05 00:00:00,Tarjeta,Hogar,48.6,Gastos,Utensilios de cocina,Original
+2018-03-04 00:00:00,Efectivo,Familia,22.5,Gastos,Ayuda a familiar,Original
+2018-03-04 00:00:00,Efectivo,Comida,6.5,Gastos,Cena,Original
+2018-03-01 18:19:57,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-03-01 00:00:00,Tarjeta,Comida,9.45,Gastos,Snacks,Original
+2018-03-01 00:00:00,Efectivo,Comida,1.8,Gastos,Café,Original
+2018-02-28 20:31:10,Tarjeta,Comida,1.5,Gastos,Snacks,Original
+2018-02-28 20:29:59,Tarjeta,Comida,0.9,Gastos,Almuerzo,Original
+2018-02-28 08:31:55,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-02-27 19:44:34,Tarjeta,Hogar,1.9,Gastos,Reparación,Original
+2018-02-27 13:21:31,Efectivo,Comida,1.5,Gastos,Panadería,Original
+2018-02-26 18:25:59,Tarjeta,Transporte,22.15,Gastos,Bus,Original
+2018-02-23 22:34:02,Efectivo,Medicinas,6.4,Gastos,Vitaminas,Original
+2018-02-17 23:12:28,Tarjeta,Comida,89.15,Gastos,Almuerzo,Original
+2018-02-17 23:10:32,Tarjeta,Familia,179.9,Gastos,Aporte a la casa,Original
+2018-02-17 19:27:16,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2018-02-17 19:26:45,Efectivo,Comida,1.5,Gastos,Frutas y verduras,Original
+2018-02-15 19:46:43,Tarjeta,Hogar,5.85,Gastos,Reparación,Original
+2018-02-15 08:56:48,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-02-14 10:47:05,Transferencia,Trabajo extra,125.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2018-02-13 20:24:24,Tarjeta,Comida,1.25,Gastos,Panadería,Original
+2018-02-12 00:00:00,Efectivo,Comida,8.1,Gastos,Cena,Original
+2018-02-11 00:00:00,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2018-02-11 00:00:00,Efectivo,Comida,11.75,Gastos,Panadería,Original
+2018-02-11 00:00:00,Efectivo,Transporte,0.75,Gastos,Bus,Original
+2018-02-11 00:00:00,Efectivo,Transporte,2.0,Gastos,Taxi,Original
+2018-02-11 00:00:00,Efectivo,Comida,0.75,Gastos,Desayuno,Original
+2018-02-05 00:00:00,Efectivo,Familia,25.0,Gastos,Compra para padres,Original
+2018-02-04 00:00:00,Tarjeta,Comida,22.6,Gastos,Desayuno,Original
+2018-02-03 07:39:04,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-02-03 00:00:00,Tarjeta,Transporte,47.25,Gastos,Pasaje,Original
+2018-02-02 00:00:00,Efectivo,Familia,8.5,Gastos,Aporte a la casa,Original
+2018-01-31 22:00:22,Efectivo,Comida,16.0,Gastos,Delivery,Original
+2018-01-31 08:50:16,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-01-30 08:47:37,Efectivo,Familia,5.0,Gastos,Aporte a la casa,Original
+2018-01-28 19:24:01,Tarjeta,Hogar,48.84,Gastos,Reparación,Original
+2018-01-28 19:16:31,Tarjeta,Hogar,38.2,Gastos,Luz,Original
+2018-01-28 17:54:34,Transferencia,Reembolsos,15.0,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2018-01-26 14:11:01,Efectivo,Transporte,0.75,Gastos,Uber,Original
+2018-01-26 12:38:42,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2018-01-26 10:03:44,Efectivo,Comida,1.25,Gastos,Almuerzo,Original
+2018-01-26 10:03:28,Efectivo,Hogar,1.9,Gastos,Reparación,Original
+2018-01-25 13:24:57,Efectivo,Comida,3.5,Gastos,Desayuno,Original
+2018-01-24 09:51:12,Efectivo,Comida,1.75,Gastos,Delivery,Original
+2018-01-23 21:28:59,Tarjeta,Hogar,13.65,Gastos,Utensilios de cocina,Original
+2018-01-22 12:08:08,Efectivo,Comida,8.1,Gastos,Panadería,Original
+2018-01-21 19:44:43,Tarjeta,Comida,19.2,Gastos,Supermercado,Original
+2018-01-20 10:18:03,Tarjeta,Subscripciones,8.95,Gastos,Gimnasio,Original
+2018-01-19 22:23:35,Efectivo,Comida,1.0,Gastos,Snacks,Original
+2018-01-19 22:22:37,Efectivo,Hogar,2.3,Gastos,Utensilios de cocina,Original
+2018-01-18 15:09:12,Tarjeta,Comida,10.95,Gastos,Supermercado,Original
+2018-01-16 09:20:40,Efectivo,Hogar,8.25,Gastos,Luz,Original
+2018-01-16 07:11:55,Tarjeta,Vida Social,14.9,Gastos,Salida con amigos,Original
+2018-01-15 16:55:27,Tarjeta,Comida,14.2,Gastos,Delivery,Original
+2018-01-15 16:54:35,Efectivo,Comida,1.9,Gastos,Cena,Original
+2018-01-15 13:51:31,Efectivo,Transporte,2.0,Gastos,Pasaje,Original
+2018-01-15 08:04:30,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2018-01-14 15:23:43,Efectivo,Transporte,2.0,Gastos,Pasaje,Original
+2018-01-14 15:22:51,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2018-01-14 15:22:40,Efectivo,Transporte,1.25,Gastos,Metro,Original
+2018-01-14 15:22:04,Tarjeta,Hogar,39.9,Gastos,Agua,Original
+2018-01-14 12:21:16,Efectivo,Transporte,1.15,Gastos,Bus,Original
+2018-01-14 10:54:48,Efectivo,Transporte,2.0,Gastos,Bus,Original
+2018-01-14 07:30:30,Efectivo,Transporte,0.75,Gastos,Combustible,Original
+2018-01-13 20:57:11,Efectivo,Medicinas,37.0,Gastos,Farmacia,Original
+2018-01-12 00:00:00,Tarjeta,Hogar,11.3,Gastos,Artículos de limpieza,Original
+2018-01-12 00:00:00,Efectivo,Medicinas,25.0,Gastos,Consulta médica,Original
+2018-01-09 00:00:00,Efectivo,Comida,1.7,Gastos,Panadería,Original
+2018-01-08 00:00:00,Efectivo,Comida,1.0,Gastos,Café,Original
+2018-01-08 00:00:00,Tarjeta,Hogar,69.95,Gastos,Luz,Original
+2018-01-08 00:00:00,Efectivo,Hogar,8.25,Gastos,Agua,Original
+2018-01-07 00:00:00,Efectivo,Comida,1.0,Gastos,Desayuno,Original
+2018-01-07 00:00:00,Efectivo,Transporte,1.0,Gastos,Taxi,Original
+2018-01-06 00:00:00,Efectivo,Hogar,1.9,Gastos,Agua,Original
+2018-01-06 00:00:00,Efectivo,Comida,3.45,Gastos,Cena,Original
+2018-01-06 00:00:00,Efectivo,Comida,1.0,Gastos,Café,Original
+2018-01-04 00:00:00,Efectivo,Hogar,6.5,Gastos,Reparación,Original
+2018-01-04 00:00:00,Efectivo,Hogar,13.5,Gastos,Internet,Original
+2018-01-04 00:00:00,Efectivo,Comida,3.5,Gastos,Café,Original
+2018-01-03 00:00:00,Tarjeta,Comida,34.05,Gastos,Panadería,Original
+2018-01-02 16:44:25,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2018-01-02 00:00:00,Tarjeta,Hogar,57.0,Gastos,Artículos de limpieza,Original
+2018-01-02 00:00:00,Efectivo,Medicinas,7.9,Gastos,Vitaminas,Original
+2018-01-01 00:00:00,Tarjeta,Subscripciones,24.1,Gastos,Streaming,Original
+2018-01-01 00:00:00,Efectivo,Comida,0.75,Gastos,Cena,Original
+2018-01-01 00:00:00,Tarjeta,Hogar,29.95,Gastos,Agua,Original
+2018-01-01 00:00:00,Efectivo,Comida,3.45,Gastos,Desayuno,Original
+2017-12-31 13:25:39,Efectivo,Comida,1.5,Gastos,Desayuno,Original
+2017-12-31 08:58:51,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-12-30 10:51:45,Efectivo,Comida,1.25,Gastos,Panadería,Original
+2017-12-29 18:22:49,Efectivo,Comida,1.5,Gastos,Cena,Original
+2017-12-29 18:22:25,Efectivo,Hogar,9.1,Gastos,Agua,Original
+2017-12-29 18:22:11,Efectivo,Comida,0.25,Gastos,Café,Original
+2017-12-28 18:27:52,Efectivo,Comida,0.5,Gastos,Snacks,Original
+2017-12-27 18:43:16,Efectivo,Comida,3.5,Gastos,Supermercado,Original
+2017-12-26 19:35:40,Tarjeta,Subscripciones,87.45,Gastos,Plan de celular,Original
+2017-12-25 17:43:26,Tarjeta,Subscripciones,7.8,Gastos,Gimnasio,Original
+2017-12-25 05:48:15,Efectivo,Transporte,4.0,Gastos,Uber,Original
+2017-12-24 19:28:25,Tarjeta,Regalos,68.2,Gastos,Regalo de navidad,Original
+2017-12-24 19:28:11,Efectivo,Comida,1.25,Gastos,Café,Original
+2017-12-24 19:27:42,Efectivo,Hogar,5.0,Gastos,Artículos de limpieza,Original
+2017-12-23 11:06:42,Tarjeta,Regalos,39.9,Gastos,Regalo de cumpleaños,Original
+2017-12-21 20:45:25,Efectivo,Hogar,5.9,Gastos,Utensilios de cocina,Original
+2017-12-21 14:34:40,Efectivo,Comida,3.25,Gastos,Delivery,Original
+2017-12-21 14:34:05,Efectivo,Comida,3.5,Gastos,Café,Original
+2017-12-20 10:31:16,Tarjeta,Subscripciones,1420.0,Gastos,Streaming,Original
+2017-12-20 10:31:16,Efectivo,Comida,4.75,Gastos,Almuerzo,Original
+2017-12-20 10:09:31,Transferencia,Salario,400.0,Ingresos,Décimo tercer mes (ACH),Simulado
+2017-12-19 20:25:07,Efectivo,Familia,25.0,Gastos,Ayuda a familiar,Original
+2017-12-19 18:57:13,Efectivo,Comida,2.25,Gastos,Cena,Original
+2017-12-19 17:53:27,Efectivo,Transporte,0.5,Gastos,Pasaje,Original
+2017-12-17 22:28:06,Tarjeta,Comida,25.25,Gastos,Café,Original
+2017-12-17 22:27:36,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-12-17 22:26:42,Tarjeta,Hogar,43.9,Gastos,Utensilios de cocina,Original
+2017-12-17 17:49:59,Efectivo,Comida,1.0,Gastos,Frutas y verduras,Original
+2017-12-17 17:48:57,Efectivo,Transporte,1.25,Gastos,Uber,Original
+2017-12-17 16:28:43,Efectivo,Transporte,1.0,Gastos,Pasaje,Original
+2017-12-17 16:28:24,Efectivo,Transporte,0.75,Gastos,Combustible,Original
+2017-12-17 16:21:55,Transferencia,Reembolsos,4.0,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-12-15 08:30:45,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-12-15 07:46:09,Transferencia,Ventas,40.0,Ingresos,Venta de artículo usado (Yappy),Simulado
+2017-12-15 07:24:31,Efectivo,Comida,0.75,Gastos,Panadería,Original
+2017-12-14 20:17:25,Efectivo,Comida,7.25,Gastos,Almuerzo,Original
+2017-12-13 17:42:27,Efectivo,Familia,1.0,Gastos,Aporte a la casa,Original
+2017-12-12 00:00:00,Efectivo,Comida,4.0,Gastos,Panadería,Original
+2017-12-12 00:00:00,Efectivo,Comida,2.0,Gastos,Desayuno,Original
+2017-12-12 00:00:00,Tarjeta,Comida,5.0,Gastos,Cena,Original
+2017-12-10 00:00:00,Efectivo,Comida,4.5,Gastos,Almuerzo,Original
+2017-12-10 00:00:00,Efectivo,Comida,15.5,Gastos,Supermercado,Original
+2017-12-10 00:00:00,Efectivo,Comida,1.25,Gastos,Panadería,Original
+2017-12-09 00:00:00,Efectivo,Comida,4.25,Gastos,Cena,Original
+2017-12-04 00:00:00,Tarjeta,Hogar,46.85,Gastos,Internet,Original
+2017-12-04 00:00:00,Tarjeta,Hogar,49.5,Gastos,Luz,Original
+2017-12-04 00:00:00,Efectivo,Comida,2.5,Gastos,Almuerzo,Original
+2017-12-03 00:00:00,Efectivo,Comida,1.5,Gastos,Café,Original
+2017-12-02 13:42:50,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-11-30 20:20:53,Tarjeta,Medicinas,1135.0,Gastos,Vitaminas,Original
+2017-11-30 08:55:08,Efectivo,Familia,2.5,Gastos,Aporte a la casa,Original
+2017-11-30 08:44:15,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-11-28 17:35:35,Tarjeta,Hogar,5.75,Gastos,Agua,Original
+2017-11-27 16:07:30,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-11-27 13:39:29,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-11-27 13:38:55,Efectivo,Transporte,0.25,Gastos,Taxi,Original
+2017-11-26 20:30:45,Efectivo,Transporte,2.0,Gastos,Pasaje,Original
+2017-11-26 20:30:12,Tarjeta,Medicinas,7.95,Gastos,Farmacia,Original
+2017-11-26 17:29:44,Efectivo,Transporte,2.0,Gastos,Metro,Original
+2017-11-26 16:59:29,Efectivo,Transporte,0.5,Gastos,Uber,Original
+2017-11-25 10:25:57,Tarjeta,Subscripciones,7.8,Gastos,Software,Original
+2017-11-25 08:35:44,Efectivo,Comida,0.5,Gastos,Cena,Original
+2017-11-23 12:22:39,Efectivo,Comida,1.15,Gastos,Snacks,Original
+2017-11-23 12:22:39,Efectivo,Comida,1.05,Gastos,Cena,Original
+2017-11-23 12:22:39,Efectivo,Comida,0.85,Gastos,Cena,Original
+2017-11-19 20:23:06,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2017-11-19 20:22:43,Efectivo,Transporte,1.0,Gastos,Bus,Original
+2017-11-19 20:22:19,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-11-18 22:20:50,Tarjeta,Hogar,12.1,Gastos,Utensilios de cocina,Original
+2017-11-15 20:48:26,Tarjeta,Comida,26.2,Gastos,Supermercado,Original
+2017-11-15 20:43:38,Tarjeta,Hogar,4.75,Gastos,Internet,Original
+2017-11-15 08:55:12,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-11-14 22:09:11,Efectivo,Comida,6.25,Gastos,Snacks,Original
+2017-11-14 22:08:41,Efectivo,Familia,38.5,Gastos,Ayuda a familiar,Original
+2017-11-13 20:17:00,Tarjeta,Hogar,13.4,Gastos,Luz,Original
+2017-11-12 00:00:00,Efectivo,Comida,0.6,Gastos,Delivery,Original
+2017-11-12 00:00:00,Efectivo,Transporte,2.0,Gastos,Combustible,Original
+2017-11-12 00:00:00,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-11-12 00:00:00,Tarjeta,Hogar,6.5,Gastos,Artículos de limpieza,Original
+2017-11-12 00:00:00,Tarjeta,Comida,76.25,Gastos,Desayuno,Original
+2017-11-12 00:00:00,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-11-12 00:00:00,Efectivo,Hogar,6.0,Gastos,Internet,Original
+2017-11-12 00:00:00,Efectivo,Transporte,1.7,Gastos,Taxi,Original
+2017-11-09 00:00:00,Efectivo,Hogar,1.0,Gastos,Agua,Original
+2017-11-09 00:00:00,Tarjeta,Hogar,3.35,Gastos,Agua,Original
+2017-11-08 00:00:00,Tarjeta,Hogar,26.95,Gastos,Luz,Original
+2017-11-06 00:00:00,Efectivo,Comida,1.95,Gastos,Snacks,Original
+2017-11-05 00:00:00,Efectivo,Transporte,0.75,Gastos,Bus,Original
+2017-11-03 13:14:54,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-11-02 00:00:00,Efectivo,Comida,1.0,Gastos,Snacks,Original
+2017-10-31 08:37:42,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-10-29 22:24:14,Tarjeta,Subscripciones,14.8,Gastos,Software,Original
+2017-10-29 21:54:53,Tarjeta,Subscripciones,39.77,Gastos,Gimnasio,Original
+2017-10-27 12:55:49,Efectivo,Transporte,2.0,Gastos,Metro,Original
+2017-10-26 19:24:35,Efectivo,Transporte,2.5,Gastos,Bus,Original
+2017-10-24 10:58:47,Efectivo,Comida,0.5,Gastos,Café,Original
+2017-10-23 21:28:37,Efectivo,Hogar,0.45,Gastos,Agua,Original
+2017-10-23 18:54:46,Efectivo,Hogar,4.95,Gastos,Utensilios de cocina,Original
+2017-10-23 11:03:59,Efectivo,Hogar,1.35,Gastos,Reparación,Original
+2017-10-23 09:02:11,Efectivo,Hogar,2.5,Gastos,Internet,Original
+2017-10-22 18:35:25,Efectivo,Transporte,2.5,Gastos,Pasaje,Original
+2017-10-21 19:30:30,Efectivo,Comida,1.65,Gastos,Panadería,Original
+2017-10-19 21:44:36,Efectivo,Comida,1.25,Gastos,Supermercado,Original
+2017-10-18 19:24:45,Tarjeta,Transporte,66.65,Gastos,Bus,Original
+2017-10-18 19:16:25,Tarjeta,Transporte,61.55,Gastos,Bus,Original
+2017-10-15 08:53:37,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-10-13 12:33:18,Efectivo,Familia,3.5,Gastos,Ayuda a familiar,Original
+2017-10-11 15:48:34,Transferencia,Reembolsos,15.0,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-10-10 00:00:00,Efectivo,Hogar,0.7,Gastos,Luz,Original
+2017-10-09 00:00:00,Efectivo,Comida,11.5,Gastos,Café,Original
+2017-10-09 00:00:00,Efectivo,Comida,14.0,Gastos,Almuerzo,Original
+2017-10-08 00:00:00,Tarjeta,Regalos,325.0,Gastos,Regalo de cumpleaños,Original
+2017-10-08 00:00:00,Tarjeta,Familia,159.9,Gastos,Compra para padres,Original
+2017-10-04 00:00:00,Efectivo,Familia,20.0,Gastos,Ayuda a familiar,Original
+2017-10-02 20:09:28,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-10-02 00:00:00,Tarjeta,Hogar,152.75,Gastos,Agua,Original
+2017-09-30 20:22:53,Efectivo,Comida,1.5,Gastos,Supermercado,Original
+2017-09-30 19:32:17,Transferencia,Reembolsos,2.5,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-09-30 17:03:55,Efectivo,Hogar,30.0,Gastos,Internet,Original
+2017-09-30 08:24:12,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-09-29 21:53:28,Efectivo,Comida,1.25,Gastos,Panadería,Original
+2017-09-29 21:53:08,Efectivo,Comida,0.5,Gastos,Desayuno,Original
+2017-09-27 20:17:00,Efectivo,Hogar,15.6,Gastos,Internet,Original
+2017-09-24 21:05:55,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-09-24 21:05:24,Efectivo,Transporte,0.5,Gastos,Taxi,Original
+2017-09-24 11:36:54,Efectivo,Comida,14.0,Gastos,Café,Original
+2017-09-21 15:06:36,Efectivo,Transporte,0.75,Gastos,Bus,Original
+2017-09-21 12:45:28,Efectivo,Comida,0.75,Gastos,Delivery,Original
+2017-09-21 12:45:22,Efectivo,Comida,0.5,Gastos,Almuerzo,Original
+2017-09-21 08:05:45,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-09-21 07:52:53,Efectivo,Familia,3.5,Gastos,Compra para padres,Original
+2017-09-20 14:01:26,Efectivo,Familia,1.0,Gastos,Compra para padres,Original
+2017-09-18 10:22:42,Efectivo,Comida,3.0,Gastos,Snacks,Original
+2017-09-18 10:22:20,Efectivo,Comida,2.75,Gastos,Supermercado,Original
+2017-09-17 10:50:40,Tarjeta,Hogar,27.9,Gastos,Internet,Original
+2017-09-15 22:32:40,Efectivo,Comida,3.0,Gastos,Desayuno,Original
+2017-09-15 11:48:48,Efectivo,Comida,2.75,Gastos,Supermercado,Original
+2017-09-15 08:35:09,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-09-14 06:21:12,Tarjeta,Comida,14.1,Gastos,Supermercado,Original
+2017-09-11 00:00:00,Efectivo,Transporte,5.0,Gastos,Bus,Original
+2017-09-11 00:00:00,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-09-11 00:00:00,Efectivo,Transporte,3.0,Gastos,Pasaje,Original
+2017-09-09 00:00:00,Efectivo,Medicinas,2.25,Gastos,Vitaminas,Original
+2017-09-08 00:00:00,Efectivo,Comida,9.8,Gastos,Panadería,Original
+2017-09-07 11:49:50,Transferencia,Trabajo extra,125.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2017-09-06 00:00:00,Efectivo,Familia,25.0,Gastos,Ayuda a familiar,Original
+2017-09-05 00:00:00,Efectivo,Universidad,2.5,Gastos,Impresiones,Original
+2017-09-03 15:47:56,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-08-31 10:23:19,Efectivo,Hogar,3.0,Gastos,Internet,Original
+2017-08-31 10:22:22,Efectivo,Hogar,0.5,Gastos,Agua,Original
+2017-08-31 10:22:07,Efectivo,Hogar,0.25,Gastos,Internet,Original
+2017-08-31 10:21:37,Efectivo,Hogar,1.25,Gastos,Utensilios de cocina,Original
+2017-08-31 08:07:29,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-08-29 12:03:54,Efectivo,Transporte,32.0,Gastos,Metro,Original
+2017-08-28 12:06:47,Efectivo,Comida,1.0,Gastos,Panadería,Original
+2017-08-27 04:44:32,Efectivo,Medicinas,2.95,Gastos,Consulta médica,Original
+2017-08-27 04:44:32,Efectivo,Transporte,10.0,Gastos,Taxi,Original
+2017-08-26 22:17:11,Efectivo,Comida,0.25,Gastos,Delivery,Original
+2017-08-25 05:51:28,Efectivo,Medicinas,1.95,Gastos,Exámenes de laboratorio,Original
+2017-08-24 22:31:56,Efectivo,Transporte,2.0,Gastos,Pasaje,Original
+2017-08-24 22:31:56,Tarjeta,Comida,16.25,Gastos,Cena,Original
+2017-08-24 16:09:59,Tarjeta,Hogar,150.0,Gastos,Reparación,Original
+2017-08-23 14:08:23,Efectivo,Comida,15.0,Gastos,Café,Original
+2017-08-23 14:07:44,Efectivo,Transporte,42.5,Gastos,Combustible,Original
+2017-08-22 16:11:00,Efectivo,Hogar,15.0,Gastos,Artículos de limpieza,Original
+2017-08-22 16:11:00,Efectivo,Familia,250.0,Gastos,Compra para padres,Original
+2017-08-20 21:01:24,Tarjeta,Comida,8.3,Gastos,Café,Original
+2017-08-20 21:00:13,Tarjeta,Comida,25.2,Gastos,Café,Original
+2017-08-20 20:59:43,Efectivo,Transporte,3.0,Gastos,Taxi,Original
+2017-08-20 20:58:05,Efectivo,Transporte,1.25,Gastos,Combustible,Original
+2017-08-20 20:57:31,Efectivo,Transporte,3.0,Gastos,Uber,Original
+2017-08-20 20:57:08,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-08-20 00:07:49,Tarjeta,Hogar,28.45,Gastos,Utensilios de cocina,Original
+2017-08-19 11:50:16,Efectivo,Hogar,3.0,Gastos,Agua,Original
+2017-08-19 11:49:46,Efectivo,Hogar,1.0,Gastos,Internet,Original
+2017-08-19 11:49:24,Efectivo,Hogar,2.25,Gastos,Internet,Original
+2017-08-18 15:33:07,Efectivo,Familia,5.0,Gastos,Ayuda a familiar,Original
+2017-08-17 19:38:57,Efectivo,Hogar,4.4,Gastos,Utensilios de cocina,Original
+2017-08-17 19:36:33,Efectivo,Comida,2.25,Gastos,Snacks,Original
+2017-08-17 18:17:26,Transferencia,Reembolsos,22.5,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-08-15 19:36:01,Tarjeta,Hogar,70.0,Gastos,Reparación,Original
+2017-08-15 08:53:58,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-08-14 20:03:33,Tarjeta,Hogar,16.0,Gastos,Internet,Original
+2017-08-14 11:44:04,Tarjeta,Hogar,5.6,Gastos,Utensilios de cocina,Original
+2017-08-11 00:00:00,Efectivo,Transporte,23.5,Gastos,Pasaje,Original
+2017-08-11 00:00:00,Efectivo,Transporte,3.0,Gastos,Uber,Original
+2017-08-11 00:00:00,Efectivo,Transporte,5.0,Gastos,Bus,Original
+2017-08-11 00:00:00,Efectivo,Transporte,16.5,Gastos,Metro,Original
+2017-08-11 00:00:00,Efectivo,Regalos,25.0,Gastos,Regalo de cumpleaños,Original
+2017-08-06 00:00:00,Efectivo,Hogar,15.1,Gastos,Artículos de limpieza,Original
+2017-08-06 00:00:00,Efectivo,Medicinas,1.1,Gastos,Vitaminas,Original
+2017-08-05 00:00:00,Tarjeta,Regalos,57.25,Gastos,Detalle,Original
+2017-08-05 00:00:00,Tarjeta,Regalos,45.45,Gastos,Regalo de cumpleaños,Original
+2017-08-05 00:00:00,Efectivo,Familia,5.0,Gastos,Ayuda a familiar,Original
+2017-08-01 17:53:09,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-08-01 00:00:00,Efectivo,Medicinas,0.5,Gastos,Consulta médica,Original
+2017-07-31 12:12:39,Efectivo,Transporte,3.25,Gastos,Taxi,Original
+2017-07-31 08:17:35,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-07-30 21:33:27,Efectivo,Comida,1.0,Gastos,Cena,Original
+2017-07-30 15:38:49,Efectivo,Hogar,50.0,Gastos,Artículos de limpieza,Original
+2017-07-30 14:20:18,Efectivo,Comida,5.0,Gastos,Almuerzo,Original
+2017-07-30 14:19:42,Efectivo,Transporte,1.0,Gastos,Taxi,Original
+2017-07-29 13:30:49,Tarjeta,Medicinas,27.8,Gastos,Exámenes de laboratorio,Original
+2017-07-28 16:20:14,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-07-28 15:25:34,Tarjeta,Medicinas,8.35,Gastos,Farmacia,Original
+2017-07-28 11:31:24,Tarjeta,Medicinas,152.5,Gastos,Exámenes de laboratorio,Original
+2017-07-28 11:31:02,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2017-07-28 11:30:45,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-07-27 20:33:23,Tarjeta,Comida,10.75,Gastos,Snacks,Original
+2017-07-27 20:05:23,Tarjeta,Comida,10.15,Gastos,Delivery,Original
+2017-07-27 06:05:30,Efectivo,Hogar,10.0,Gastos,Internet,Original
+2017-07-24 21:52:22,Tarjeta,Comida,12.4,Gastos,Delivery,Original
+2017-07-23 16:02:41,Efectivo,Hogar,10.0,Gastos,Luz,Original
+2017-07-20 19:31:37,Efectivo,Comida,2.5,Gastos,Cena,Original
+2017-07-20 15:14:48,Tarjeta,Subscripciones,127.25,Gastos,Streaming,Original
+2017-07-18 21:02:27,Efectivo,Comida,2.15,Gastos,Desayuno,Original
+2017-07-18 20:55:35,Efectivo,Comida,2.75,Gastos,Delivery,Original
+2017-07-17 22:16:39,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-07-17 16:21:41,Tarjeta,Comida,27.0,Gastos,Cena,Original
+2017-07-15 08:03:13,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-07-11 00:00:00,Efectivo,Familia,75.0,Gastos,Compra para padres,Original
+2017-07-09 00:00:00,Tarjeta,Hogar,146.15,Gastos,Reparación,Original
+2017-07-06 11:35:00,Transferencia,Reembolsos,15.0,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2017-07-04 07:40:38,Transferencia,Reembolsos,7.5,Ingresos,Reembolso de compra en línea,Simulado
+2017-07-01 21:18:28,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-06-30 08:18:42,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-06-29 07:48:30,Efectivo,Transporte,2.5,Gastos,Combustible,Original
+2017-06-28 22:51:12,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2017-06-28 22:50:55,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-06-28 15:52:00,Transferencia,Reembolsos,22.5,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-06-27 09:32:15,Efectivo,Medicinas,0.6,Gastos,Consulta médica,Original
+2017-06-25 13:38:59,Efectivo,Transporte,0.5,Gastos,Bus,Original
+2017-06-22 23:03:08,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2017-06-22 23:02:07,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-06-19 10:19:53,Efectivo,Comida,7.05,Gastos,Frutas y verduras,Original
+2017-06-18 20:01:48,Efectivo,Transporte,0.6,Gastos,Pasaje,Original
+2017-06-18 20:01:09,Efectivo,Transporte,0.75,Gastos,Uber,Original
+2017-06-15 08:44:31,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-06-08 00:00:00,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-06-08 00:00:00,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-06-07 12:16:20,Transferencia,Trabajo extra,50.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2017-06-07 00:00:00,Efectivo,Hogar,1.3,Gastos,Agua,Original
+2017-06-06 00:00:00,Efectivo,Universidad,0.15,Gastos,Materiales,Original
+2017-06-06 00:00:00,Efectivo,Comida,2.0,Gastos,Panadería,Original
+2017-06-05 00:00:00,Efectivo,Comida,1.0,Gastos,Panadería,Original
+2017-06-05 00:00:00,Efectivo,Comida,9.0,Gastos,Delivery,Original
+2017-06-05 00:00:00,Efectivo,Medicinas,0.9,Gastos,Exámenes de laboratorio,Original
+2017-06-02 20:48:35,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-06-02 10:33:23,Transferencia,Reembolsos,22.5,Ingresos,Reembolso de compra en línea,Simulado
+2017-05-31 08:36:37,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-05-30 19:57:58,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-05-30 17:04:28,Efectivo,Comida,2.0,Gastos,Frutas y verduras,Original
+2017-05-30 17:04:07,Efectivo,Comida,6.0,Gastos,Frutas y verduras,Original
+2017-05-30 17:02:53,Efectivo,Hogar,13.75,Gastos,Agua,Original
+2017-05-30 09:41:31,Efectivo,Transporte,4.0,Gastos,Taxi,Original
+2017-05-30 09:41:14,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-05-29 09:25:48,Efectivo,Universidad,1.5,Gastos,Materiales,Original
+2017-05-28 19:39:31,Efectivo,Comida,2.25,Gastos,Panadería,Original
+2017-05-28 19:27:51,Efectivo,Comida,1.5,Gastos,Frutas y verduras,Original
+2017-05-25 08:47:34,Efectivo,Comida,1.5,Gastos,Snacks,Original
+2017-05-25 08:47:34,Efectivo,Transporte,0.75,Gastos,Metro,Original
+2017-05-24 08:46:43,Efectivo,Comida,0.75,Gastos,Frutas y verduras,Original
+2017-05-24 08:46:43,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2017-05-23 22:09:27,Efectivo,Hogar,2.3,Gastos,Utensilios de cocina,Original
+2017-05-21 15:34:55,Efectivo,Transporte,1.5,Gastos,Metro,Original
+2017-05-21 15:33:51,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-05-21 15:26:54,Efectivo,Comida,1.2,Gastos,Café,Original
+2017-05-21 14:58:17,Transferencia,Reembolsos,5.0,Ingresos,Reembolso de compra en línea,Simulado
+2017-05-21 09:40:52,Efectivo,Transporte,1.0,Gastos,Metro,Original
+2017-05-18 16:11:48,Efectivo,Comida,0.5,Gastos,Supermercado,Original
+2017-05-18 11:06:06,Efectivo,Comida,0.5,Gastos,Panadería,Original
+2017-05-17 14:12:16,Efectivo,Comida,0.25,Gastos,Desayuno,Original
+2017-05-17 10:27:35,Efectivo,Comida,0.5,Gastos,Cena,Original
+2017-05-16 19:10:09,Efectivo,Comida,0.5,Gastos,Cena,Original
+2017-05-16 13:11:02,Efectivo,Comida,0.25,Gastos,Snacks,Original
+2017-05-15 19:28:42,Efectivo,Comida,5.0,Gastos,Delivery,Original
+2017-05-15 08:53:55,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-05-14 17:52:31,Transferencia,Reembolsos,4.0,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-05-13 18:02:21,Efectivo,Comida,0.5,Gastos,Cena,Original
+2017-05-13 10:43:50,Efectivo,Comida,0.25,Gastos,Snacks,Original
+2017-05-12 13:21:20,Transferencia,Reembolsos,4.0,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2017-05-12 00:00:00,Efectivo,Comida,0.5,Gastos,Delivery,Original
+2017-05-12 00:00:00,Efectivo,Comida,0.5,Gastos,Desayuno,Original
+2017-05-11 00:00:00,Efectivo,Comida,0.5,Gastos,Delivery,Original
+2017-05-10 00:00:00,Efectivo,Comida,6.25,Gastos,Supermercado,Original
+2017-05-09 00:00:00,Efectivo,Comida,2.0,Gastos,Panadería,Original
+2017-05-09 00:00:00,Efectivo,Comida,0.5,Gastos,Frutas y verduras,Original
+2017-05-06 19:48:11,Transferencia,Trabajo extra,125.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2017-05-06 00:00:00,Efectivo,Comida,1.25,Gastos,Delivery,Original
+2017-05-06 00:00:00,Efectivo,Comida,1.0,Gastos,Almuerzo,Original
+2017-05-06 00:00:00,Efectivo,Comida,0.5,Gastos,Snacks,Original
+2017-05-05 00:00:00,Efectivo,Comida,1.0,Gastos,Delivery,Original
+2017-05-03 00:00:00,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-05-03 00:00:00,Efectivo,Transporte,0.75,Gastos,Combustible,Original
+2017-05-03 00:00:00,Efectivo,Transporte,3.0,Gastos,Uber,Original
+2017-05-03 00:00:00,Efectivo,Transporte,0.5,Gastos,Bus,Original
+2017-05-03 00:00:00,Efectivo,Transporte,55.0,Gastos,Uber,Original
+2017-05-01 19:43:52,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-05-01 00:00:00,Efectivo,Transporte,0.5,Gastos,Combustible,Original
+2017-05-01 00:00:00,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2017-05-01 00:00:00,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2017-04-30 21:03:55,Efectivo,Transporte,1.5,Gastos,Metro,Original
+2017-04-30 21:03:30,Efectivo,Comida,1.25,Gastos,Café,Original
+2017-04-30 19:53:16,Efectivo,Comida,5.5,Gastos,Delivery,Original
+2017-04-30 08:58:18,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-04-25 09:21:54,Efectivo,Transporte,0.5,Gastos,Combustible,Original
+2017-04-25 09:21:21,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2017-04-25 09:21:02,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-04-17 11:32:34,Transferencia,Trabajo extra,125.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2017-04-15 08:52:36,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-04-11 16:16:01,Transferencia,Reembolsos,4.0,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2017-04-03 16:02:56,Transferencia,Reembolsos,15.0,Ingresos,Reembolso de compra en línea,Simulado
+2017-04-02 08:29:44,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-04-01 00:00:00,Efectivo,Comida,2.6,Gastos,Frutas y verduras,Original
+2017-04-01 00:00:00,Efectivo,Comida,2.0,Gastos,Panadería,Original
+2017-04-01 00:00:00,Efectivo,Comida,0.5,Gastos,Snacks,Original
+2017-03-31 21:08:42,Efectivo,Transporte,3.0,Gastos,Taxi,Original
+2017-03-31 21:07:22,Efectivo,Transporte,1.5,Gastos,Metro,Original
+2017-03-31 21:06:32,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2017-03-31 21:03:22,Efectivo,Comida,24.75,Gastos,Frutas y verduras,Original
+2017-03-31 21:02:45,Efectivo,Transporte,0.75,Gastos,Bus,Original
+2017-03-31 21:01:20,Efectivo,Hogar,125.0,Gastos,Internet,Original
+2017-03-31 21:00:41,Efectivo,Transporte,0.75,Gastos,Metro,Original
+2017-03-31 10:20:31,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-03-31 08:50:50,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-03-28 11:59:46,Efectivo,Comida,0.6,Gastos,Delivery,Original
+2017-03-27 09:04:03,Transferencia,Reembolsos,5.0,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-03-25 14:50:06,Efectivo,Comida,1.0,Gastos,Cena,Original
+2017-03-25 13:41:02,Efectivo,Medicinas,7.5,Gastos,Exámenes de laboratorio,Original
+2017-03-25 09:14:09,Efectivo,Comida,3.0,Gastos,Cena,Original
+2017-03-22 23:18:47,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2017-03-22 23:16:53,Efectivo,Transporte,2.5,Gastos,Uber,Original
+2017-03-22 23:14:21,Efectivo,Hogar,25.0,Gastos,Artículos de limpieza,Original
+2017-03-22 23:11:47,Efectivo,Transporte,1.65,Gastos,Combustible,Original
+2017-03-22 23:11:47,Efectivo,Transporte,0.9,Gastos,Uber,Original
+2017-03-22 23:10:50,Efectivo,Transporte,1.0,Gastos,Uber,Original
+2017-03-22 23:10:50,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-03-18 09:41:44,Efectivo,Comida,2.85,Gastos,Almuerzo,Original
+2017-03-18 09:41:44,Efectivo,Comida,15.5,Gastos,Desayuno,Original
+2017-03-15 08:59:16,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-03-15 06:17:55,Efectivo,Hogar,2.5,Gastos,Utensilios de cocina,Original
+2017-03-15 06:17:55,Efectivo,Hogar,5.55,Gastos,Internet,Original
+2017-03-15 06:17:32,Efectivo,Comida,2.0,Gastos,Cena,Original
+2017-03-14 20:20:07,Efectivo,Hogar,15.0,Gastos,Internet,Original
+2017-03-13 21:47:02,Efectivo,Comida,5.0,Gastos,Cena,Original
+2017-03-13 21:46:14,Efectivo,Hogar,20.0,Gastos,Artículos de limpieza,Original
+2017-03-13 14:08:00,Efectivo,Hogar,80.0,Gastos,Agua,Original
+2017-03-12 00:00:00,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2017-03-12 00:00:00,Efectivo,Comida,2.0,Gastos,Supermercado,Original
+2017-03-12 00:00:00,Efectivo,Comida,6.5,Gastos,Snacks,Original
+2017-03-12 00:00:00,Efectivo,Transporte,2.0,Gastos,Combustible,Original
+2017-03-12 00:00:00,Efectivo,Transporte,1.5,Gastos,Metro,Original
+2017-03-11 00:00:00,Efectivo,Comida,3.0,Gastos,Café,Original
+2017-03-11 00:00:00,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2017-03-11 00:00:00,Efectivo,Transporte,1.5,Gastos,Metro,Original
+2017-03-09 00:00:00,Efectivo,Comida,5.0,Gastos,Delivery,Original
+2017-03-07 00:00:00,Efectivo,Comida,9.5,Gastos,Café,Original
+2017-03-07 00:00:00,Efectivo,Comida,5.25,Gastos,Desayuno,Original
+2017-03-06 00:00:00,Efectivo,Comida,3.1,Gastos,Frutas y verduras,Original
+2017-03-06 00:00:00,Efectivo,Comida,2.25,Gastos,Almuerzo,Original
+2017-03-05 00:00:00,Efectivo,Hogar,7.0,Gastos,Utensilios de cocina,Original
+2017-03-05 00:00:00,Efectivo,Transporte,1.5,Gastos,Uber,Original
+2017-03-05 00:00:00,Efectivo,Comida,1.5,Gastos,Almuerzo,Original
+2017-03-05 00:00:00,Efectivo,Transporte,1.0,Gastos,Metro,Original
+2017-03-05 00:00:00,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-03-04 15:14:41,Transferencia,Reembolsos,5.0,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2017-03-04 00:00:00,Efectivo,Comida,1.0,Gastos,Desayuno,Original
+2017-03-03 16:42:51,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-03-01 00:00:00,Efectivo,Hogar,2.5,Gastos,Utensilios de cocina,Original
+2017-02-28 22:13:41,Efectivo,Comida,4.25,Gastos,Almuerzo,Original
+2017-02-28 22:13:41,Efectivo,Transporte,2.0,Gastos,Bus,Original
+2017-02-28 22:13:04,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-02-28 22:11:09,Efectivo,Transporte,0.5,Gastos,Taxi,Original
+2017-02-28 22:09:39,Efectivo,Transporte,0.6,Gastos,Bus,Original
+2017-02-28 22:09:27,Efectivo,Comida,0.5,Gastos,Cena,Original
+2017-02-28 22:07:25,Efectivo,Transporte,1.0,Gastos,Taxi,Original
+2017-02-28 22:06:58,Efectivo,Comida,1.5,Gastos,Cena,Original
+2017-02-28 22:01:48,Efectivo,Transporte,2.0,Gastos,Combustible,Original
+2017-02-28 12:32:35,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-02-28 12:32:35,Efectivo,Transporte,4.0,Gastos,Bus,Original
+2017-02-28 12:32:35,Efectivo,Transporte,2.85,Gastos,Uber,Original
+2017-02-28 08:13:40,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-02-27 18:42:27,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2017-02-27 18:42:27,Efectivo,Transporte,1.5,Gastos,Pasaje,Original
+2017-02-27 18:42:27,Efectivo,Transporte,2.0,Gastos,Taxi,Original
+2017-02-27 09:18:03,Efectivo,Hogar,2.75,Gastos,Agua,Original
+2017-02-26 23:59:58,Efectivo,Transporte,1.0,Gastos,Metro,Original
+2017-02-26 23:59:09,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-02-26 00:01:25,Efectivo,Hogar,18.0,Gastos,Reparación,Original
+2017-02-25 20:41:26,Efectivo,Hogar,80.0,Gastos,Reparación,Original
+2017-02-25 20:40:36,Efectivo,Hogar,46.0,Gastos,Utensilios de cocina,Original
+2017-02-24 13:09:50,Efectivo,Comida,1.5,Gastos,Cena,Original
+2017-02-24 13:09:50,Efectivo,Comida,3.75,Gastos,Desayuno,Original
+2017-02-24 13:09:50,Efectivo,Comida,5.0,Gastos,Café,Original
+2017-02-23 02:14:24,Efectivo,Comida,4.0,Gastos,Desayuno,Original
+2017-02-22 22:00:06,Efectivo,Universidad,1.5,Gastos,Impresiones,Original
+2017-02-21 22:00:35,Efectivo,Comida,0.5,Gastos,Almuerzo,Original
+2017-02-19 08:04:37,Efectivo,Universidad,1.25,Gastos,Impresiones,Original
+2017-02-19 08:04:37,Efectivo,Comida,1.5,Gastos,Café,Original
+2017-02-18 13:19:49,Efectivo,Familia,25.0,Gastos,Compra para padres,Original
+2017-02-15 18:38:30,Transferencia,Reembolsos,10.0,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2017-02-15 08:06:48,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-02-11 00:00:00,Efectivo,Comida,0.5,Gastos,Delivery,Original
+2017-02-11 00:00:00,Efectivo,Familia,50.0,Gastos,Ayuda a familiar,Original
+2017-02-10 15:04:10,Transferencia,Trabajo extra,50.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2017-02-08 11:45:18,Transferencia,Reembolsos,22.5,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2017-02-06 00:00:00,Efectivo,Comida,7.0,Gastos,Desayuno,Original
+2017-02-06 00:00:00,Efectivo,Comida,9.75,Gastos,Snacks,Original
+2017-02-06 00:00:00,Efectivo,Comida,1.5,Gastos,Snacks,Original
+2017-02-05 00:00:00,Efectivo,Transporte,16.5,Gastos,Pasaje,Original
+2017-02-05 00:00:00,Efectivo,Transporte,2.0,Gastos,Bus,Original
+2017-02-05 00:00:00,Efectivo,Comida,0.5,Gastos,Café,Original
+2017-02-04 00:00:00,Efectivo,Comida,2.65,Gastos,Desayuno,Original
+2017-02-04 00:00:00,Efectivo,Comida,1.5,Gastos,Almuerzo,Original
+2017-02-03 00:00:00,Efectivo,Medicinas,0.4,Gastos,Vitaminas,Original
+2017-02-03 00:00:00,Efectivo,Comida,0.6,Gastos,Panadería,Original
+2017-02-03 00:00:00,Efectivo,Comida,0.5,Gastos,Delivery,Original
+2017-02-01 11:42:05,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-01-31 08:04:36,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-01-30 07:24:02,Efectivo,Comida,0.75,Gastos,Supermercado,Original
+2017-01-29 20:20:15,Efectivo,Comida,12.5,Gastos,Desayuno,Original
+2017-01-29 20:19:46,Efectivo,Comida,3.0,Gastos,Panadería,Original
+2017-01-29 19:26:04,Efectivo,Comida,1.5,Gastos,Supermercado,Original
+2017-01-29 19:24:30,Efectivo,Comida,1.75,Gastos,Almuerzo,Original
+2017-01-29 19:23:34,Efectivo,Transporte,1.5,Gastos,Combustible,Original
+2017-01-29 19:23:08,Efectivo,Transporte,25.5,Gastos,Combustible,Original
+2017-01-29 19:22:36,Efectivo,Transporte,1.5,Gastos,Bus,Original
+2017-01-25 13:38:38,Transferencia,Reembolsos,7.5,Ingresos,Reembolso de compra en línea,Simulado
+2017-01-23 11:05:15,Transferencia,Trabajo extra,50.0,Ingresos,Pago proyecto freelance (ACH),Simulado
+2017-01-22 19:20:19,Efectivo,Comida,20.5,Gastos,Delivery,Original
+2017-01-19 00:13:03,Efectivo,Comida,1.0,Gastos,Supermercado,Original
+2017-01-16 16:02:53,Efectivo,Transporte,2.0,Gastos,Pasaje,Original
+2017-01-15 08:25:53,Efectivo,Comida,7.0,Gastos,Frutas y verduras,Original
+2017-01-15 08:25:53,Efectivo,Comida,27.0,Gastos,Cena,Original
+2017-01-15 08:25:31,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2017-01-14 11:36:39,Transferencia,Reembolsos,2.5,Ingresos,Reembolso de compra en línea,Simulado
+2017-01-13 14:58:28,Transferencia,Reembolsos,10.0,Ingresos,Reembolso de compra en línea,Simulado
+2017-01-11 00:00:00,Efectivo,Comida,2.25,Gastos,Delivery,Original
+2017-01-10 00:00:00,Efectivo,Comida,8.0,Gastos,Cena,Original
+2017-01-08 00:00:00,Efectivo,Transporte,2.5,Gastos,Pasaje,Original
+2017-01-07 00:00:00,Efectivo,Transporte,2.5,Gastos,Uber,Original
+2017-01-06 00:00:00,Efectivo,Hogar,10.0,Gastos,Reparación,Original
+2017-01-06 00:00:00,Efectivo,Comida,1.55,Gastos,Café,Original
+2017-01-05 00:00:00,Efectivo,Hogar,5.0,Gastos,Reparación,Original
+2017-01-05 00:00:00,Efectivo,Comida,1.55,Gastos,Frutas y verduras,Original
+2017-01-04 00:00:00,Efectivo,Comida,2.0,Gastos,Frutas y verduras,Original
+2017-01-03 17:03:09,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2017-01-03 00:00:00,Efectivo,Comida,15.5,Gastos,Snacks,Original
+2017-01-03 00:00:00,Efectivo,Comida,7.0,Gastos,Delivery,Original
+2017-01-03 00:00:00,Efectivo,Comida,1.0,Gastos,Supermercado,Original
+2017-01-03 00:00:00,Efectivo,Comida,3.5,Gastos,Desayuno,Original
+2017-01-03 00:00:00,Efectivo,Transporte,1.5,Gastos,Taxi,Original
+2017-01-03 00:00:00,Efectivo,Transporte,1.0,Gastos,Combustible,Original
+2017-01-03 00:00:00,Efectivo,Comida,16.5,Gastos,Café,Original
+2017-01-03 00:00:00,Efectivo,Comida,2.5,Gastos,Café,Original
+2017-01-02 00:00:00,Efectivo,Transporte,3.0,Gastos,Combustible,Original
+2017-01-02 00:00:00,Efectivo,Hogar,5.5,Gastos,Reparación,Original
+2017-01-01 00:00:00,Efectivo,Comida,2.0,Gastos,Delivery,Original
+2016-12-31 19:34:55,Efectivo,Comida,1.25,Gastos,Supermercado,Original
+2016-12-31 13:47:26,Efectivo,Subscripciones,140.8,Gastos,Streaming,Original
+2016-12-31 08:55:48,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2016-12-30 21:30:17,Efectivo,Transporte,5.0,Gastos,Combustible,Original
+2016-12-29 19:16:32,Efectivo,Comida,0.5,Gastos,Supermercado,Original
+2016-12-29 18:06:14,Efectivo,Comida,0.7,Gastos,Cena,Original
+2016-12-28 18:41:14,Efectivo,Comida,0.5,Gastos,Frutas y verduras,Original
+2016-12-19 18:29:12,Efectivo,Comida,1.5,Gastos,Snacks,Original
+2016-12-19 17:08:11,Efectivo,Comida,1.45,Gastos,Supermercado,Original
+2016-12-19 17:07:37,Efectivo,Comida,8.5,Gastos,Café,Original
+2016-12-19 10:18:30,Transferencia,Salario,400.0,Ingresos,Décimo tercer mes (ACH),Simulado
+2016-12-15 08:08:40,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2016-12-14 21:43:10,Efectivo,Comida,10.0,Gastos,Supermercado,Original
+2016-12-13 21:42:22,Efectivo,Hogar,1.25,Gastos,Agua,Original
+2016-12-11 00:00:00,Efectivo,Medicinas,10.0,Gastos,Vitaminas,Original
+2016-12-10 00:00:00,Efectivo,Comida,1.5,Gastos,Panadería,Original
+2016-12-06 07:16:55,Transferencia,Reembolsos,22.5,Ingresos,Amigo devuelve préstamo (Yappy),Simulado
+2016-12-05 00:00:00,Efectivo,Familia,7.75,Gastos,Aporte a la casa,Original
+2016-12-04 00:00:00,Efectivo,Comida,0.5,Gastos,Snacks,Original
+2016-12-04 00:00:00,Efectivo,Comida,1.0,Gastos,Frutas y verduras,Original
+2016-12-04 00:00:00,Efectivo,Comida,2.25,Gastos,Frutas y verduras,Original
+2016-12-04 00:00:00,Efectivo,Comida,0.75,Gastos,Snacks,Original
+2016-12-04 00:00:00,Efectivo,Comida,4.5,Gastos,Panadería,Original
+2016-12-04 00:00:00,Efectivo,Comida,2.5,Gastos,Frutas y verduras,Original
+2016-12-04 00:00:00,Efectivo,Comida,1.5,Gastos,Snacks,Original
+2016-12-04 00:00:00,Efectivo,Comida,0.4,Gastos,Desayuno,Original
+2016-12-04 00:00:00,Efectivo,Comida,1.25,Gastos,Panadería,Original
+2016-12-04 00:00:00,Efectivo,Comida,1.25,Gastos,Delivery,Original
+2016-12-03 00:00:00,Efectivo,Comida,2.75,Gastos,Frutas y verduras,Original
+2016-12-03 00:00:00,Efectivo,Comida,1.0,Gastos,Almuerzo,Original
+2016-12-02 08:55:00,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2016-11-30 08:11:12,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2016-11-29 21:44:34,Efectivo,Familia,3.0,Gastos,Aporte a la casa,Original
+2016-11-28 06:17:10,Efectivo,Comida,1.0,Gastos,Café,Original
+2016-11-21 09:41:12,Efectivo,Transporte,2.5,Gastos,Taxi,Original
+2016-11-21 09:41:12,Efectivo,Transporte,3.5,Gastos,Pasaje,Original
+2016-11-21 09:41:12,Efectivo,Medicinas,0.75,Gastos,Exámenes de laboratorio,Original
+2016-11-20 11:58:05,Efectivo,Transporte,2.5,Gastos,Taxi,Original
+2016-11-20 11:06:53,Transferencia,Reembolsos,7.5,Ingresos,Pago de cuenta compartida (Yappy),Simulado
+2016-11-19 12:12:00,Efectivo,Comida,0.1,Gastos,Café,Original
+2016-11-19 12:12:00,Efectivo,Transporte,2.5,Gastos,Pasaje,Original
+2016-11-19 12:12:00,Efectivo,Comida,2.0,Gastos,Supermercado,Original
+2016-11-19 12:12:00,Efectivo,Transporte,2.0,Gastos,Combustible,Original
+2016-11-19 12:12:00,Efectivo,Transporte,4.7,Gastos,Uber,Original
+2016-11-19 11:58:28,Efectivo,Transporte,2.7,Gastos,Metro,Original
+2016-11-19 11:58:28,Efectivo,Transporte,4.0,Gastos,Metro,Original
+2016-11-19 11:58:28,Efectivo,Comida,2.0,Gastos,Supermercado,Original
+2016-11-19 11:58:28,Efectivo,Transporte,2.0,Gastos,Uber,Original
+2016-11-19 11:58:28,Efectivo,Transporte,5.0,Gastos,Pasaje,Original
+2016-11-19 11:58:28,Efectivo,Transporte,5.0,Gastos,Uber,Original
+2016-11-19 11:58:28,Efectivo,Transporte,16.9,Gastos,Combustible,Original
+2016-11-18 09:17:02,Transferencia,Reembolsos,2.5,Ingresos,Reembolso de compra en línea,Simulado
+2016-11-17 20:17:21,Efectivo,Comida,0.5,Gastos,Frutas y verduras,Original
+2016-11-15 20:23:29,Efectivo,Comida,1.0,Gastos,Café,Original
+2016-11-15 20:22:40,Efectivo,Comida,9.0,Gastos,Café,Original
+2016-11-15 08:48:44,Transferencia,Salario,225.0,Ingresos,Pago de quincena (ACH),Simulado
+2016-11-12 00:00:00,Efectivo,Comida,0.5,Gastos,Snacks,Original
+2016-11-12 00:00:00,Efectivo,Medicinas,2.75,Gastos,Vitaminas,Original
+2016-11-10 00:00:00,Efectivo,Transporte,2.0,Gastos,Bus,Original
+2016-11-08 12:11:19,Transferencia,Reembolsos,2.5,Ingresos,Reembolso de compra en línea,Simulado
+2016-11-07 00:00:00,Efectivo,Comida,2.25,Gastos,Snacks,Original
+2016-11-05 00:00:00,Efectivo,Transporte,1.5,Gastos,Metro,Original
+2016-11-03 00:00:00,Efectivo,Comida,12.0,Gastos,Desayuno,Original
+2016-11-01 18:30:17,Transferencia,Familia,75.0,Ingresos,Mesada familiar (Yappy),Simulado
+2016-11-01 00:00:00,Efectivo,Comida,2.5,Gastos,Panadería,Original
